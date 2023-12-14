@@ -66,7 +66,7 @@ export const ethw = defineChain({
     default: { name: "Explorer", url: "https://mainnet.ethwscan.com" },
   },
 });
-export const Mantle = defineChain({
+export const mantle = defineChain({
   id: 5000,
   name: "Mantle-mainnet",
   network: "Mantle-mainnet",
